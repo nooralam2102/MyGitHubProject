@@ -12,6 +12,8 @@ public static void main(String[] args) {
 		System.out.println(n+"*"+i+"="+(n*i));
 	}
 	System.out.println("this is my first test");
+	System.out.println("this is my first test recent");
+	System.out.println("this is my first test recent2");
 	
 }
 }
